@@ -1,0 +1,13 @@
+using html lib to unescape the html coded texts
+age : int
+laterrrr ages after
+age = 12
+it will be int then
+specifying data type inf functions can make life simpler, will help in big codes
+def check(age : int)->int:
+    return age
+    so basically this function is providing the data type of input and output
+
+
+
+
